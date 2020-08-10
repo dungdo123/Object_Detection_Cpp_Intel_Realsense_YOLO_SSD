@@ -6,7 +6,7 @@ In this project, I implemented object detectors on a depth camera using some pop
 
 Requirements and setup:
 - Hardwares: Intel SR305 camera (400 series are possible), Dell core i5, no GPU
-- Software: VS2019 environment, OpenCV 4.2, librealsense SDK2.0
+- Software: VS2019 environment, OpenCV 4.2, librealsense SDK
 - Download pre-trained YoloV3, SSD models: yolov3.weights, yolov3.cfg, coco.names, MobileNetSSD_deploy.caffemodel, MobileNetSSD_deploy.prototxt (just google for these files, there are many available sources)
 
 References:
