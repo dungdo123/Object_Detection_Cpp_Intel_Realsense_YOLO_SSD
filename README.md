@@ -1,1 +1,1 @@
-# Object_Detection_C-_Intel_Realsense_camera_YOLO_SSD
+# Object_Detection_C++_Intel_Realsense_camera_YOLO_SSD
