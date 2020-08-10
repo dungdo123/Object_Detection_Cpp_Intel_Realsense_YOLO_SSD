@@ -9,6 +9,9 @@ Requirements and setup:
 - Software: VS2019 environment, OpenCV 4.2, librealsense SDK
 - Download pre-trained YoloV3, SSD models: yolov3.weights, yolov3.cfg, coco.names, MobileNetSSD_deploy.caffemodel, MobileNetSSD_deploy.prototxt (just google for these files, there are many available sources)
 
+Result sample with SSD:
+![Results_sample](https://user-images.githubusercontent.com/26808083/89842479-b83db400-dbb0-11ea-8772-0f6adce8502d.JPG)
+
 References:
 1. https://github.com/krutikabapat/DNN-Object-Detection-YOLOv3
 2. https://github.com/IntelRealSense/librealsense/tree/master/examples
